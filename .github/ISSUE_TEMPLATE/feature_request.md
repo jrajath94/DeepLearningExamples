@@ -4,7 +4,6 @@ about: Suggest an idea for this project
 title: "[Model/Framework or something else] Feature requested"
 labels: enhancement
 assignees: ''
-
 ---
 
 Related to **Model/Framework(s) or something else (describe)** 
