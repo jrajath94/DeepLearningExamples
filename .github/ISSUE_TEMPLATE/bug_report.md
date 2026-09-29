@@ -4,7 +4,6 @@ about: Create a report to help us improve
 title: "[Model/Framework] What is the problem?"
 labels: bug
 assignees: ''
-
 ---
 
 Related to **Model/Framework(s)** 
